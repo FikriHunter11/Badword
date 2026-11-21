@@ -1,0 +1,10 @@
+name: BadWord
+version: 1.0.0
+main: me.fikrihunter.BadwordMain
+api-version: '1.21'
+folia-supported: true
+author: FikriHunter
+description: A simple plugin that blocks bad words
+
+commands: {}
+permissions: {}
